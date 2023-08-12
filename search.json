@@ -1,0 +1,156 @@
+[
+    {
+        "caption": "مراکز درمانی",
+        "type": "center",
+        "icon": "hospital-icon",
+        "component": "text",
+        "items": [
+            {
+                "title": "بیمارستان نقوی کاشان <span style=\"font-size:1.25rem; color: #aaa\"> | کاشان</span>",
+                "name": "بیمارستان نقوی کاشان",
+                "image": "/api/getImage/p24/search-hospitalclinic/6d43ddfe693c46352bdc2ea7fed6e46b.jpg",
+                "url": "/center/بیمارستان-نقوی-کاشان/",
+                "formatted_title": "بیمارستان <em>نقوی</em> کاشان <span style=\"font-size:1.25rem; color: #aaa\"> | کاشان</span>",
+                "sub_title": "",
+                "activity": null,
+                "type": "center",
+                "position": 1,
+                "section_position": 1
+            }
+        ]
+    },
+    {
+        "caption": "پزشکان",
+        "type": "doctor",
+        "icon": "category-icon",
+        "component": "card",
+        "items": [
+            {
+                "title": "دکتر زهره نقوی <span style=\"font-size:1.25rem; color: #aaa\"> | شهرضا</span>",
+                "name": "دکتر زهره نقوی",
+                "image": "/api/getImage/p24/search-men/noimage.png",
+                "url": "/dr/دکتر-زهره-نقوی/",
+                "formatted_title": "دکتر زهره <em>نقوی</em> <span style=\"font-size:1.25rem; color: #aaa\"> | شهرضا</span>",
+                "sub_title": "کارشناسی فیزیوتراپی",
+                "activity": null,
+                "type": "doctor",
+                "position": 2,
+                "section_position": 1
+            },
+            {
+                "title": "دکتر مریم نقوی <span style=\"font-size:1.25rem; color: #aaa\"> | مشهد</span>",
+                "name": "دکتر مریم نقوی",
+                "image": "/api/getImage/p24/search-men/82ad6924e4b6cea7ffe117802c7587c5.jpg",
+                "url": "/dr/دکتر--مریم-نقوی/",
+                "formatted_title": "دکتر مریم <em>نقوی</em> <span style=\"font-size:1.25rem; color: #aaa\"> | مشهد</span>",
+                "sub_title": "دندانپزشک",
+                "activity": null,
+                "type": "doctor",
+                "position": 3,
+                "section_position": 2
+            },
+            {
+                "title": "دکتر علیرضا نقوی <span style=\"font-size:1.25rem; color: #aaa\"> | کرج</span>",
+                "name": "دکتر علیرضا نقوی",
+                "image": "/api/getImage/p24/search-men/noimage.png",
+                "url": "/dr/دکتر-علیرضا-نقوی-0/",
+                "formatted_title": "دکتر علیرضا <em>نقوی</em> <span style=\"font-size:1.25rem; color: #aaa\"> | کرج</span>",
+                "sub_title": "متخصص دندان - دندانپزشک",
+                "activity": null,
+                "type": "doctor",
+                "position": 4,
+                "section_position": 3
+            },
+            {
+                "title": "دکتر خسرو نقوی شیخ الاسلامی <span style=\"font-size:1.25rem; color: #aaa\"> | سنندج</span>",
+                "name": "دکتر خسرو نقوی شیخ الاسلامی",
+                "image": "/api/getImage/p24/search-men/3b06cd1513e103de05bfb2ebc6905aaa.png",
+                "url": "/dr/دکتر-خسرو-نقوی‌-شیخ‌-الاسلامی‌/",
+                "formatted_title": "دکتر خسرو <em>نقوی</em> شیخ الاسلامی <span style=\"font-size:1.25rem; color: #aaa\"> | سنندج</span>",
+                "sub_title": "متخصص جراحی دهان، فک و صورت",
+                "activity": null,
+                "type": "doctor",
+                "position": 5,
+                "section_position": 4
+            },
+            {
+                "title": "دکتر راضیه نقوی <span style=\"font-size:1.25rem; color: #aaa\"> | شوشتر</span>",
+                "name": "دکتر راضیه نقوی",
+                "image": "/api/getImage/p24/search-men/noimage.png",
+                "url": "/dr/دکتر-راضیه-نقوی-0/",
+                "formatted_title": "دکتر راضیه <em>نقوی</em> <span style=\"font-size:1.25rem; color: #aaa\"> | شوشتر</span>",
+                "sub_title": "پزشک عمومی",
+                "activity": null,
+                "type": "doctor",
+                "position": 6,
+                "section_position": 5
+            },
+            {
+                "title": "دکتر محمود نقوی <span style=\"font-size:1.25rem; color: #aaa\"> | تهران</span>",
+                "name": "دکتر محمود نقوی",
+                "image": "/api/getImage/p24/search-men/cb0e3f43a38eb18918cb0cb3e6b73d45.jpg",
+                "url": "/dr/دکتر-محمود-نقوی/",
+                "formatted_title": "دکتر محمود <em>نقوی</em> <span style=\"font-size:1.25rem; color: #aaa\"> | تهران</span>",
+                "sub_title": "متخصص چشم‌پزشکی",
+                "activity": null,
+                "type": "doctor",
+                "position": 7,
+                "section_position": 6
+            },
+            {
+                "title": "دکتر علی نقوی <span style=\"font-size:1.25rem; color: #aaa\"> | </span>",
+                "name": "دکتر علی نقوی",
+                "image": "/api/getImage/p24/search-men/noimage.png",
+                "url": "/dr/دکتر-علی-نقوی/",
+                "formatted_title": "دکتر علی <em>نقوی</em> <span style=\"font-size:1.25rem; color: #aaa\"> | </span>",
+                "sub_title": "دکترای حرفه ای دندانپزشکی",
+                "activity": null,
+                "type": "doctor",
+                "position": 8,
+                "section_position": 7
+            },
+            {
+                "title": "دکتر سعید نقوی <span style=\"font-size:1.25rem; color: #aaa\"> | تهران</span>",
+                "name": "دکتر سعید نقوی",
+                "image": "/api/getImage/p24/search-men/0f36a5532592fee1dee55908fe009097.png",
+                "url": "/dr/دکتر-سعید-نقوی/",
+                "formatted_title": "دکتر سعید <em>نقوی</em> <span style=\"font-size:1.25rem; color: #aaa\"> | تهران</span>",
+                "sub_title": "دکترای حرفه‌ای دندانپزشکی",
+                "activity": null,
+                "type": "doctor",
+                "position": 9,
+                "section_position": 8
+            },
+            {
+                "title": "دکتر آنیتا نقوی جورشری <span style=\"font-size:1.25rem; color: #aaa\"> | </span>",
+                "name": "دکتر آنیتا نقوی جورشری",
+                "image": "/api/getImage/p24/search-men/noimage.png",
+                "url": "/dr/دکتر-آنیتا-نقوی-جورشری/",
+                "formatted_title": "دکتر آنیتا <em>نقوی</em> جورشری <span style=\"font-size:1.25rem; color: #aaa\"> | </span>",
+                "sub_title": "دکترای حرفه ای پزشکی",
+                "activity": null,
+                "type": "doctor",
+                "position": 10,
+                "section_position": 9
+            }
+        ]
+    },
+    {
+        "type": "default",
+        "icon": "search-icon",
+        "component": "search",
+        "items": [
+            {
+                "title": "جست و جوی نقوی در ایران",
+                "name": "جست و جوی نقوی در ایران",
+                "image": "/img/clinic/s_icon_g_64.png",
+                "url": "/s/?text=نقوی",
+                "formatted_title": "جست و جوی <em>نقوی</em> در ایران",
+                "sub_title": "",
+                "type": "search_suggest",
+                "position": 11,
+                "section_position": 1
+            }
+        ]
+    }
+]

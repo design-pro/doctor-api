@@ -1,0 +1,840 @@
+{
+    "id": "3487fafa-60d5-45e4-bf83-80430b5e1946",
+    "slug": "دکتر-عمران-اسماعیل-زاده",
+    "name": "عمران",
+    "family": "اسماعیل زاده",
+    "score": 0,
+    "experience": 2,
+    "gender": 1,
+    "desk": null,
+    "biography": "<p>متخصص ژنتیک پزشکی و عضو هیئت علمی دانشگاه علوم پزشکی&nbsp;</p><p>انجام مشاوره تخصصی ژنتیک در زمینه :</p><p>&nbsp;آزمایشات قبل از ازدواج و قبل از بارداری، تالاسمی، بیماری های نادر ژنتیکی، سقط مکرر، ناباروری، سرطان، انواع تست ها و اختلالات ژنتیکی</p>",
+    "awards": null,
+    "scientific": null,
+    "hashtag": null,
+    "server_id": 1,
+    "number_of_visits": 28431,
+    "expertises": [
+        {
+            "alias_title": "دکترای تخصصی (Ph.D) ژنتیک پزشکی",
+            "graduation_date": 1652643000,
+            "degree": {
+                "id": 9,
+                "name": "دکترای تخصصی",
+                "icon": null
+            },
+            "expertise": {
+                "id": 176,
+                "name": "ژنتیک پزشکی"
+            },
+            "expertise_groups": [
+                {
+                    "id": 2603,
+                    "group_id": 5,
+                    "expertise_id": 176,
+                    "name": "آزمایشگاه و تصویربرداری",
+                    "en_slug": "laboratory-and-imaging",
+                    "icon": "/api/getImage/icons%2Fgroup_expertise//azmayeshgah.png"
+                },
+                {
+                    "id": 2694,
+                    "group_id": 24,
+                    "expertise_id": 176,
+                    "name": "ژنتیک",
+                    "en_slug": "genetics",
+                    "icon": "/api/getImage/icons%2Fgroup_expertise//dna copy-min.png"
+                },
+                {
+                    "id": 2603,
+                    "group_id": 5,
+                    "expertise_id": 176,
+                    "name": "آزمایشگاه و تصویربرداری",
+                    "en_slug": "laboratory-and-imaging",
+                    "icon": "/api/getImage/icons%2Fgroup_expertise//azmayeshgah.png"
+                },
+                {
+                    "id": 2694,
+                    "group_id": 24,
+                    "expertise_id": 176,
+                    "name": "ژنتیک",
+                    "en_slug": "genetics",
+                    "icon": "/api/getImage/icons%2Fgroup_expertise//dna copy-min.png"
+                }
+            ],
+            "center_id": [
+                "a815c683-4c0c-4543-a558-165d0f3bc5e2",
+                "5532"
+            ]
+        }
+    ],
+    "group_expertises": [
+        {
+            "id": 5,
+            "name": "آزمایشگاه و تصویربرداری",
+            "en_slug": "laboratory-and-imaging",
+            "icon": "/api/getImage/icons%2Fgroup_expertise//azmayeshgah.png"
+        },
+        {
+            "id": 24,
+            "name": "ژنتیک",
+            "en_slug": "genetics",
+            "icon": "/api/getImage/icons%2Fgroup_expertise//dna copy-min.png"
+        }
+    ],
+    "centers": [
+        {
+            "id": "a815c683-4c0c-4543-a558-165d0f3bc5e2",
+            "freeturn": "1691321400",
+            "freeturn_text": "15 مرداد 3:00 عصر",
+            "freeturns_info": [
+                {
+                    "service_id": "5a553a36-8f55-45fc-9edd-512bfb431145",
+                    "book_type_id": "7",
+                    "freeturn": "1691321400",
+                    "available_time": "1691008200",
+                    "availalbe_time_text": null,
+                    "expire_time": "1691058180",
+                    "status_code": null
+                }
+            ],
+            "is_center": "unknown",
+            "status": 1,
+            "center_type": 1,
+            "center_type_name": "مطب",
+            "user_center_id": "87a0020c-e4d8-45f1-82d0-a4a4e5d634af",
+            "server_id": 1,
+            "slug": "دکتر-عمران-اسماعیل-زاده",
+            "url": "/دکتر-عمران-اسماعیل-زاده",
+            "name": "مطب دکتر عمران اسماعیل زاده",
+            "map": {
+                "lat": 35.77234663168,
+                "lon": 51.352981183395
+            },
+            "image": "/api/getImage/p24/search-hospitalclinic/noimage.png",
+            "tell": "02122376488",
+            "tell_array": [
+                "021-22376488"
+            ],
+            "display_number": "02122376488",
+            "display_number_array": [
+                "021-22376488"
+            ],
+            "description": null,
+            "description_raw": "",
+            "access": [],
+            "province": "تهران",
+            "city": "تهران",
+            "city_en_slug": "tehran",
+            "address": "سعادت آباد، انتهای بلوار درختی، کلینیک دیابت تابان، طبقه ۴",
+            "settings": {
+                "booking_active_non_presence_follow_forgotten_book": "1",
+                "booking_active_non_presence_remove_book": "1",
+                "booking_active_non_presence_change_book": "1",
+                "booking_active_select_time_in_non_presence_booking": "1",
+                "booking_paging_from_clinic": null,
+                "booking_enable_insurance": "0",
+                "disable_booking": "0",
+                "booking_new_turn_suggestion_type": "normal",
+                "booking_disable_atba_in_calendar_after_followup": "0",
+                "booking_personal_followup_settings": "1",
+                "booking_get_patient_birthday": "0",
+                "booking_required_patient_birthday": "0",
+                "booking_separate_patient_temp_name_family": "0",
+                "booking_enable_referral_system_get_appointment": "0",
+                "booking_get_person_info_by_national_code": "0",
+                "booking_get_atba_code_in_booking": "0",
+                "booking_required_gender": "0",
+                "booking_factor_custom_notice": "مبلغ پرداختی مستقیما به حساب مرکز درمانی واریز می شود و از حق ویزیت شما کسر می گردد!",
+                "booking_disable_doctor_all_type": "0"
+            },
+            "gallery": [],
+            "services": [
+                {
+                    "is_default": 1,
+                    "user_center_id": "87a0020c-e4d8-45f1-82d0-a4a4e5d634af",
+                    "can_request": 0,
+                    "request_desc": null,
+                    "terms_and_conditions": null,
+                    "duration": "00:15:00",
+                    "can_booking": 1,
+                    "id": "5a553a36-8f55-45fc-9edd-512bfb431145",
+                    "alias_title": "ویزیت",
+                    "free_price": 1000000,
+                    "desk": null,
+                    "dollar_price": "0.00",
+                    "currency": "",
+                    "service_type_id": 1,
+                    "service_length": null,
+                    "hours_of_work": [
+                        {
+                            "id": "99910dd1-89ce-46f7-a459-c8316664b760",
+                            "day": 2,
+                            "from": "15:00:00",
+                            "to": "17:30:00",
+                            "from_date": null,
+                            "to_date": null,
+                            "turn_num": null,
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "name": "Website"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Tell"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Calendar"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "APP"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Telegram"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Kiosk"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Clinic WEB"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Clinic APP"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Clinic TELEGRAM"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Clinic TELL"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "99910dd1-b95b-4186-b1d0-4f4d9ee7eaf3",
+                            "day": 7,
+                            "from": "15:00:00",
+                            "to": "17:30:00",
+                            "from_date": null,
+                            "to_date": null,
+                            "turn_num": null,
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "name": "Website"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Tell"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Calendar"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "APP"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Telegram"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Kiosk"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Clinic WEB"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Clinic APP"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Clinic TELEGRAM"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Clinic TELL"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "insurances": [],
+            "is_only_in_app": {
+                "status": false,
+                "message": ""
+            },
+            "user_center_desk": null,
+            "user_center_desk_raw": null,
+            "is_active": true
+        },
+        {
+            "id": "5532",
+            "freeturn": "1691047200",
+            "freeturn_text": "امروز 10:50 صبح",
+            "freeturns_info": [
+                {
+                    "service_id": "964ff557-95ef-4ff2-88d0-562776acc2e1",
+                    "book_type_id": "7",
+                    "freeturn": "1691047200",
+                    "available_time": "1691008200",
+                    "availalbe_time_text": null,
+                    "expire_time": "1691047359",
+                    "status_code": null
+                }
+            ],
+            "is_center": "unknown",
+            "status": 1,
+            "center_type": 3,
+            "center_type_name": "کلینیک",
+            "user_center_id": "964ff556-daa1-4e5b-b13b-b86df8143943",
+            "server_id": 1,
+            "slug": "consult",
+            "url": "/consult",
+            "name": "مشاوره آنلاین پذیرش24",
+            "map": {
+                "lat": 35.730224,
+                "lon": 51.358404
+            },
+            "image": "/api/getImage/p24/search-hospitalclinic/3f1c529bb4e42ed531950614f8ca2296.jpg",
+            "tell": "02125015555",
+            "tell_array": [
+                "021-25015555"
+            ],
+            "display_number": "02125015555",
+            "display_number_array": [
+                "021-25015555"
+            ],
+            "description": null,
+            "description_raw": "",
+            "access": [],
+            "province": "تهران",
+            "city": "تهران",
+            "city_en_slug": "tehran",
+            "address": "مرکز مشاوره آنلاین پذیرش24",
+            "settings": {
+                "booking_active_non_presence_follow_forgotten_book": "1",
+                "booking_active_non_presence_remove_book": "1",
+                "booking_active_non_presence_change_book": "1",
+                "booking_active_select_time_in_non_presence_booking": "1",
+                "booking_paging_from_clinic": null,
+                "booking_enable_insurance": "0",
+                "disable_booking": "",
+                "booking_new_turn_suggestion_type": "normal",
+                "booking_disable_atba_in_calendar_after_followup": "0",
+                "booking_personal_followup_settings": "1",
+                "booking_get_patient_birthday": "",
+                "booking_required_patient_birthday": "",
+                "booking_separate_patient_temp_name_family": "",
+                "booking_enable_referral_system_get_appointment": "",
+                "booking_get_person_info_by_national_code": "",
+                "booking_get_atba_code_in_booking": "0",
+                "booking_required_gender": "0",
+                "booking_factor_custom_notice": "مبلغ پرداختی مستقیما به حساب مرکز درمانی واریز می شود و از حق ویزیت شما کسر می گردد!",
+                "booking_disable_doctor_all_type": "0"
+            },
+            "gallery": [],
+            "services": [
+                {
+                    "is_default": 1,
+                    "user_center_id": "964ff556-daa1-4e5b-b13b-b86df8143943",
+                    "can_request": 0,
+                    "request_desc": null,
+                    "terms_and_conditions": null,
+                    "duration": "00:10:00",
+                    "can_booking": 1,
+                    "id": "964ff557-95ef-4ff2-88d0-562776acc2e1",
+                    "alias_title": "دکتر عمران اسماعیل زاده - واتساپ",
+                    "free_price": 1000000,
+                    "desk": "ویزیت آنلاین",
+                    "dollar_price": "0.00",
+                    "currency": "",
+                    "service_type_id": 8,
+                    "service_length": 1,
+                    "hours_of_work": [
+                        {
+                            "id": "99acb67c-4f7e-4b22-a6d3-9eefc81bcf87",
+                            "day": 1,
+                            "from": "09:00:00",
+                            "to": "22:30:00",
+                            "from_date": null,
+                            "to_date": null,
+                            "turn_num": null,
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "name": "Website"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Tell"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Calendar"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "APP"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Telegram"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Kiosk"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Clinic WEB"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Clinic APP"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Clinic TELEGRAM"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Clinic TELL"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "99acb67c-735b-4d28-8bd1-73a467708501",
+                            "day": 5,
+                            "from": "09:00:00",
+                            "to": "22:30:00",
+                            "from_date": null,
+                            "to_date": null,
+                            "turn_num": null,
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "name": "Website"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Tell"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Calendar"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "APP"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Telegram"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Kiosk"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Clinic WEB"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Clinic APP"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Clinic TELEGRAM"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Clinic TELL"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "99acb67c-95f2-471a-bca4-7ddcbbea79fa",
+                            "day": 4,
+                            "from": "09:00:00",
+                            "to": "22:30:00",
+                            "from_date": null,
+                            "to_date": null,
+                            "turn_num": null,
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "name": "Website"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Tell"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Calendar"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "APP"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Telegram"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Kiosk"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Clinic WEB"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Clinic APP"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Clinic TELEGRAM"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Clinic TELL"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "99acb67c-bb0b-41ef-94ac-d57d6b9a26fd",
+                            "day": 7,
+                            "from": "09:00:00",
+                            "to": "22:30:00",
+                            "from_date": null,
+                            "to_date": null,
+                            "turn_num": null,
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "name": "Website"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Tell"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Calendar"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "APP"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Telegram"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Kiosk"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Clinic WEB"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Clinic APP"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Clinic TELEGRAM"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Clinic TELL"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "99acb67c-e0bf-4841-988a-a032a47b6caa",
+                            "day": 6,
+                            "from": "09:00:00",
+                            "to": "22:30:00",
+                            "from_date": null,
+                            "to_date": null,
+                            "turn_num": null,
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "name": "Website"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Tell"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Calendar"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "APP"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Telegram"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Kiosk"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Clinic WEB"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Clinic APP"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Clinic TELEGRAM"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Clinic TELL"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "99acb67d-0d0b-4ac9-8976-491ce05bd9b4",
+                            "day": 2,
+                            "from": "09:00:00",
+                            "to": "22:30:00",
+                            "from_date": null,
+                            "to_date": null,
+                            "turn_num": null,
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "name": "Website"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Tell"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Calendar"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "APP"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Telegram"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Kiosk"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Clinic WEB"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Clinic APP"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Clinic TELEGRAM"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Clinic TELL"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "99acb67d-3730-4b56-ba56-39590136c1e4",
+                            "day": 3,
+                            "from": "09:00:00",
+                            "to": "22:30:00",
+                            "from_date": null,
+                            "to_date": null,
+                            "turn_num": null,
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "name": "Website"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Tell"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Calendar"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "APP"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Telegram"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Kiosk"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Clinic WEB"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Clinic APP"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Clinic TELEGRAM"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Clinic TELL"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "insurances": [],
+            "is_only_in_app": {
+                "status": false,
+                "message": ""
+            },
+            "user_center_desk": null,
+            "user_center_desk_raw": null,
+            "is_active": true
+        }
+    ],
+    "city_en_slug": "tehran",
+    "medical_code": "آ-4476",
+    "aparat_video_code": null,
+    "waiting_time_info": null,
+    "followConsultBoosk": 151,
+    "insert_at_age": "1 سال و 3 ماه",
+    "image": "/api/getImage/p24/search-men/51ad36ced0d1e9ce23d26e8d5eece2d2.jpg",
+    "display_name": "دکتر عمران اسماعیل زاده",
+    "feedbacks": {
+        "feedbacks": [],
+        "details": {
+            "satisfaction": 100,
+            "like": 25,
+            "dislike": 0,
+            "avg_star": 5,
+            "doctor_encounter": 5,
+            "economic_efficiency": 4.7,
+            "quality_of_treatment": 4.8,
+            "wait_time": null,
+            "explanation_of_issue": 5,
+            "user_story": 21,
+            "number_of_feedbacks": 25,
+            "waiting_time": 0
+        }
+    },
+    "feedback_visit": {
+        "two_weeks_data": [
+            {
+                "total": 0,
+                "total_non_personal": 0,
+                "doctor_absence": 0,
+                "closed_office": 0,
+                "secretary_behavior": 0,
+                "left_crowded_office": 0,
+                "left_long_delay": 0,
+                "personal_reasons": 0,
+                "other": 0,
+                "center_id": "5532",
+                "center_name": "مشاوره آنلاین پذیرش24",
+                "center_type": 3
+            },
+            {
+                "total": 0,
+                "total_non_personal": 0,
+                "doctor_absence": 0,
+                "closed_office": 0,
+                "secretary_behavior": 0,
+                "left_crowded_office": 0,
+                "left_long_delay": 0,
+                "personal_reasons": 0,
+                "other": 0,
+                "center_id": "a815c683-4c0c-4543-a558-165d0f3bc5e2",
+                "center_name": "مطب دکتر عمران اسماعیل زاده",
+                "center_type": 1
+            }
+        ],
+        "all_time_data": []
+    },
+    "similar_links": [
+        {
+            "caption": "متخصص آزمایشگاه و تصویربرداری",
+            "link": "/s/ir/laboratory-and-imaging/"
+        },
+        {
+            "caption": "متخصص ژنتیک",
+            "link": "/s/ir/genetics/"
+        },
+        {
+            "caption": "پزشکان تهران",
+            "link": "/s/tehran/doctor/"
+        },
+        {
+            "caption": "بیمارستان های تهران",
+            "link": "/s/tehran/center/"
+        },
+        {
+            "caption": "مشاوره آنلاین آزمایشگاه و تصویربرداری",
+            "link": "/consult/laboratory-and-imaging/"
+        },
+        {
+            "caption": "مشاوره آنلاین ژنتیک",
+            "link": "/consult/genetics/"
+        }
+    ],
+    "consult_active_booking": true,
+    "should_recommend_other_doctors": false,
+    "online_visit_channel_types": [
+        "whatsapp",
+        "igap_number",
+        "eitaa_number",
+        "eitaa"
+    ],
+    "symptomes": [
+        "آزمایش ژنتیک",
+        "ام ار ای (MRI)",
+        "ژنتیک اطفال",
+        "دیسک کمر",
+        "حاملگی خارج از رحم",
+        "تومور مغزی",
+        "مشاوره ازدواج",
+        "ژنتیک اطفال,سونوگرافی جنین",
+        "سونوگرافی جنین",
+        "سقط مکرر جنین"
+    ]
+}
